@@ -2,7 +2,7 @@
 
 ![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
-Live version:  https://gabrieljgb.github.io/component-with-signup/
+Live version(in progress):  https://gabrieljgb.github.io/component-with-signup/
 
 ## Welcome! 👋
 
